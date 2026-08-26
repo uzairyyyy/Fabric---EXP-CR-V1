@@ -26,27 +26,6 @@
           },
           "blocks": {}
         },
-        "logo_38acff": {
-          "type": "logo",
-          "name": "t:names.logo",
-          "settings": {
-            "inverse": true,
-            "font": "heading",
-            "text_color": "",
-            "unit": "pixel",
-            "percent_width": 100,
-            "pixel_height": 184,
-            "custom_mobile_size": false,
-            "unit_mobile": "pixel",
-            "percent_width_mobile": 100,
-            "pixel_height_mobile": 64,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
         "button_3cL8kq": {
           "type": "button",
           "name": "t:names.button",
@@ -69,7 +48,6 @@
       },
       "block_order": [
         "spacer_iqNMWF",
-        "logo_38acff",
         "button_3cL8kq"
       ],
       "name": "t:names.hero",
@@ -77,7 +55,6 @@
         "media_type_1": "image",
         "image_1": "shopify://shop_images/WEB_-_FULLVIEW_DSK_3.jpg",
         "media_type_2": "image",
-        "image_2": "shopify://shop_images/WOMEN_S2PCsJOBLETTOTEBAG-CHEEKU_4_ae206286-fb6c-4cc5-a359-25d8cd8d8a8c.webp",
         "stack_media_on_mobile": false,
         "custom_mobile_media": false,
         "media_type_1_mobile": "image",
@@ -93,10 +70,10 @@
         "vertical_alignment_flex_direction_column": "space-between",
         "gap": 32,
         "section_width": "page-width",
-        "section_height": "full-screen",
+        "section_height": "auto",
         "section_height_custom": 50,
         "background_color": "rgba(0,0,0,0)",
-        "toggle_overlay": true,
+        "toggle_overlay": false,
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",

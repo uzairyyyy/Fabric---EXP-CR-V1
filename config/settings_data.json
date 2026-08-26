@@ -9,6 +9,8 @@
  */
 {
   "current": {
+    "logo": "shopify://shop_images/WestStyle_-_Logo.png",
+    "logo_inverse": "shopify://shop_images/WestStyle_Logo_b2a4a433-cd99-4094-8074-05e75ef52816.webp",
     "logo_height": 36,
     "logo_height_mobile": 28,
     "favicon": "shopify://shop_images/logo.ws.favicon.webp",
