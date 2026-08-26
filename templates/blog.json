@@ -51,11 +51,11 @@
               "static": true,
               "settings": {
                 "height": "large",
-                "border": "none",
+                "border": "solid",
                 "border_width": 1,
                 "border_opacity": 100,
                 "border_color": "",
-                "border_radius": 0
+                "border_radius": 12
               },
               "blocks": {}
             },
